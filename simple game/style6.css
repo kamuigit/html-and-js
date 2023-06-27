@@ -1,0 +1,70 @@
+#numOf{
+    float: right;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZSr-7OrW0QDTJk2fYyuTRABsUMHGnn6z3A&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.chum{
+    display: grid;
+    grid-template-columns: auto;
+    width: 30vw;
+    height: auto;
+    position: relative;
+    justify-content: center;
+    top:15vh;
+    left: 30vw;
+    padding: 1%;
+}
+#box{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5%;
+    padding: 2%;
+}
+#title{
+    color: white;
+}
+#checkbut{
+    margin-top: 10%;
+    padding-left: 25%;
+}
+#checkButton{
+    height: 35px;
+    width: 160px;
+    background-color: lightsalmon;
+    border: white;
+    border-radius: 5%;
+}
+#textBox{
+    height: 20px;
+    width: 200px;
+    border: 1px solid white;
+    background-color: lightsalmon;
+}
+#attemptCount{
+    text-align: center;
+    margin-left: 40%;
+    border: 1px solid lightsalmon;
+    background-color: lightsalmon;
+    border-radius: 80%;
+    padding-top: 35px;
+    height: 70px;
+    width: 110px;
+}
+#boxw{
+    display: grid;
+    grid-template-columns: auto;
+    position: relative;
+    justify-content: center;
+    top:15vh;
+    padding: 1%;
+}
+#image{
+    padding-left: 150px;
+}
+#textba{
+    color: white;
+    letter-spacing: 5px;
+}
